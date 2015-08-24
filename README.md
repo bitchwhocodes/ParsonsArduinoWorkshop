@@ -81,3 +81,6 @@ We will now read a digital signal with a button and then use that to control the
 When working with commponents like a button where you set their pin mode to be input, but are not part of the other circuitry, can sometimes report random information. You can determine or force its input state using Pull up or Down resistors - which sets that state. Arduno has built in pull up resistors ( they are around 20k ) or you can put in a resistor into its circuit.
 A pull up resistor is connected through ground and a pull down resistor is connected through ground. [Read more](https://www.arduino.cc/en/Tutorial/DigitalPins)
 
+
+## MAKE: USE A A SERVO
+![Servo Diagram](https://www.arduino.cc/en/uploads/Tutorial/sweep_BB.png)
