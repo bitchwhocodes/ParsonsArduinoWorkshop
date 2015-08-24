@@ -90,6 +90,8 @@ A pull up resistor is connected through ground and a pull down resistor is conne
 ![Servo Diagram](http://ni-c.github.io/heimcontrol.js/img/arduino-a995011.png)
 
 ## MAKE: USING A PIEZO
-
+Using it to make sound 
 ![Piezo diagram](http://learning.codasign.com/images/1/1e/Piezo_arduino.png)
+Using it to detect knock 
+![Piezo diagram](https://www.arduino.cc/en/uploads/Tutorial/knock_bb.png)
 
