@@ -61,7 +61,7 @@ There is no shortage of inpsiring work that utilizes the Arduino.
 
 Arduino Sketch in Repository 
 
-![Make an LED BLINK](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/Blink/Blink)
+[Make an LED BLINK](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/Blink/Blink)
 
 
 ![Blink an LED Schematic](https://www.arduino.cc/en/uploads/Tutorial/ExampleCircuit_sch.png)
