@@ -54,6 +54,9 @@ There is no shortage of inpsiring work that utilizes the Arduino.
 + [Candy Thermin](https://vimeo.com/136259163) 
 + [Wooden Mirror](http://www.smoothware.com/danny/woodenmirror.html)
 + [LED SUITS](https://vimeo.com/131465568)
-+ 
+
+### MAKE : Blink an LED 
+
+![Blink an LED Schematic](https://www.arduino.cc/en/uploads/Tutorial/ExampleCircuit_sch.png)
 
 
