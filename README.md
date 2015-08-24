@@ -44,6 +44,8 @@ You will need the following software installed:
 + MAKE:Photocell to control LED
 + MAKE: Photocell to control LED and PIEZO 
 + 
-## Intro To Arduindo
+## Intro To Arduino
 
-Arduino is an open source hardware and software platform ( and community ). Arduino microcontrollers can sense and control the physical world. With the ability to create both simple and complex projects, the Arduino was created initially for students with zero electronics background. [Read More](https://www.arduino.cc/en/Guide/Introduction)
+Arduino is an open source hardware and software platform ( and community ). Arduino microcontrollers can sense and control the physical world. With the ability to create both simple and complex projects, the Arduino was created initially for students with zero electronics background.  Arduinos are inexpensive, accessible, cross platform and extensible. [Read More](https://www.arduino.cc/en/Guide/Introduction).
+
+
