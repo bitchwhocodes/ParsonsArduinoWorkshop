@@ -60,3 +60,6 @@ There is no shortage of inpsiring work that utilizes the Arduino.
 ![Blink an LED Schematic](https://www.arduino.cc/en/uploads/Tutorial/ExampleCircuit_sch.png)
 
 
+
+![Blink an LED Image](http://www.electroschematics.com/wp-content/uploads/2013/07/arduino-blinking-led-photo.jpg)
+
