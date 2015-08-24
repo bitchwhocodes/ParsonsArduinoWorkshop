@@ -107,5 +107,9 @@ Using it to detect knock
 
 
 ## MAKE : USING A POT TO DIM AN LED
-Sketh Link: 
+Sketch Link: 
+Diagram: 
+
 ![POT DIAGRAM](https://www.arduino.cc/en/uploads/Tutorial/analoginoutseria1_bb.png)
+
+In this example, we are now using the analog write to write an led. If you want to control how bright an LED is, you can do so using the Analog pins. You will need to use the PWM pins ( look for the ~ ). 
