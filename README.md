@@ -61,5 +61,9 @@ There is no shortage of inpsiring work that utilizes the Arduino.
 
 ![Blink an LED Image](http://rain.aa.washington.edu/@api/deki/files/44/=BlinkLED.png)
 
-LEDS are light emitting diodes. As a diode, they only let current flow in one direction - from positive to the negative terminal. They have very little ability to resist as they are a semiconductor, therefore you need to pair them with a resistor to help protec them and blowing them out. 
+![Blink an LED Image](http://www.ladyada.net/images/arduino/poweredled.jpg)
+
+LEDS are light emitting diodes. As a diode, they only let current flow in one direction - from positive to the negative terminal. They have very little ability to resist as they are a semiconductor, therefore you need to pair them with a resistor to help protect them and blowing them out. 
+
+Resistors are electrical components that when placed in a circuit, resist the amount of current. Resistors, such as the ones we are using called through-hole, have color bands that indicate what their value , or ability to resist, is. There is a decent tutorial on [Instructables about how to read a resistor](http://www.instructables.com/id/How-to-read-color-codes-from-resistors-1/). 
 
