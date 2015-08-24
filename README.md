@@ -11,10 +11,18 @@ A five day workshop split between Unity development and Arduino over the course 
 Expose students to Unity and Arduino who will have little to no prior knowledge. Understand how software and hardware can be married in interesting ways.  Complete a finished game that they have customized that allows for external input such as a touch pad / joystick etc, or output - such as led indicators. 
 
 ## Learning Path
-Starting at the basics of Arduino, from reading resitors, writing a sketch, all the way to using Node.js with Arduino to create more complex and evolved experiences utilzing an api and modules that handle serial communication. 
++ Basics of Arduino including the IDE, uploading a sketch, debugging, basic electronics and circuits
++ Working with various inputs and outputs include piezos, servos etc
++ Building a Nightlite with a Photoresistor, leds and your own framing
++ Using Node.js and SerialPort module with an Arduino
++ Using an API in Node and then showing feedback from that API in the physical world
++ Creating touch pad sensors from scratch
++ Capturing touch pad sensor information using Node and Using Socket.IO to send messages to Unity. 
++ Done. Profit. Go forth and build. 
 
 ## Arduino
-For this session we will be working with the Arduino Uno. ![Arduino Uno ](http://4.bp.blogspot.com/-TK5QmjGRFa0/VOmQmyTYsuI/AAAAAAAAOW0/CFeUCjRsuK8/s1600/arduino_uno_large.png)
+For this session we will be working with the Arduino Uno.
+![Arduino Uno ](http://4.bp.blogspot.com/-TK5QmjGRFa0/VOmQmyTYsuI/AAAAAAAAOW0/CFeUCjRsuK8/s1600/arduino_uno_large.png)
 
 ## Software
 You will need the following software installed:
@@ -23,5 +31,5 @@ You will need the following software installed:
 *  [Visual Studio Code](https://code.visualstudio.com/)
 
 
-
+# Day 1
 
