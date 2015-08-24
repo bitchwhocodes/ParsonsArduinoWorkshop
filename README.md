@@ -59,6 +59,11 @@ There is no shortage of inpsiring work that utilizes the Arduino.
 
 ## MAKE : BLINK AN LED
 
+Arduino Sketch in Repository 
+
+[Make an LED BLINK](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/Blink/Blink)
+
+
 ![Blink an LED Schematic](https://www.arduino.cc/en/uploads/Tutorial/ExampleCircuit_sch.png)
 
 ![Blink an LED Image](http://rain.aa.washington.edu/@api/deki/files/44/=BlinkLED.png)
@@ -72,6 +77,7 @@ Resistors are electrical components that when placed in a circuit, resist the am
 [Blink an LED Tutorial](https://www.arduino.cc/en/Tutorial/Blink)
 
 ## MAKE : USE A BUTTON TO CONTROL AN LED
+
 [BUTTON TO CONTROL LED](https://www.arduino.cc/en/Tutorial/DigitalReadSerial)
 We will now read a digital signal with a button and then use that to control the light. 
 ![Button to control Led](https://www.arduino.cc/en/uploads/Tutorial/button.png)
@@ -80,6 +86,7 @@ We will now read a digital signal with a button and then use that to control the
 ## Pull up and Pull Down Resistors
 When working with commponents like a button where you set their pin mode to be input, but are not part of the other circuitry, can sometimes report random information. You can determine or force its input state using Pull up or Down resistors - which sets that state. Arduno has built in pull up resistors ( they are around 20k ) or you can put in a resistor into its circuit.
 A pull up resistor is connected through ground and a pull down resistor is connected through ground. [Read more](https://www.arduino.cc/en/Tutorial/DigitalPins)
+[Pull up Resistors on Sparkfun](https://learn.sparkfun.com/tutorials/pull-up-resistors/what-is-a-pull-up-resistor)
 
 
 ## MAKE: USE A SERVO
@@ -98,3 +105,11 @@ Using it to detect knock
 
 ![Piezo diagram](https://www.arduino.cc/en/uploads/Tutorial/knock_bb.png)
 
+
+## MAKE : USING A POT TO DIM AN LED
+Sketch Link: 
+Diagram: 
+
+![POT DIAGRAM](https://www.arduino.cc/en/uploads/Tutorial/analoginoutseria1_bb.png)
+
+In this example, we are now using the analog write to write an led. If you want to control how bright an LED is, you can do so using the Analog pins. You will need to use the PWM pins ( look for the ~ ). 
