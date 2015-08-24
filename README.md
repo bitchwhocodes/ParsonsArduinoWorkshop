@@ -50,6 +50,8 @@ Arduino is an open source hardware and software platform ( and community ). Ardu
 
 Arduinos come in many flavours, so understanding one that meets the needs of your project is essential. Adafruit has a great guide to help you pick which one is right for what you are doing.[Read the Selected An Arduino article.](https://learn.adafruit.com/adafruit-arduino-selection-guide/selecting-an-arduino) 
 
+Learn the basics of using [a breadboard](https://channel9.msdn.com/Blogs/raw-tech/Electronics-for-the-Uninitiated-Using-a-Breadboard)
+
 There is no shortage of inpsiring work that utilizes the Arduino. 
 + [Candy Thermin](https://vimeo.com/136259163) 
 + [Wooden Mirror](http://www.smoothware.com/danny/woodenmirror.html)
