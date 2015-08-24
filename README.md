@@ -55,7 +55,7 @@ There is no shortage of inpsiring work that utilizes the Arduino.
 + [Wooden Mirror](http://www.smoothware.com/danny/woodenmirror.html)
 + [LED SUITS](https://vimeo.com/131465568)
 
-### MAKE : Blink an LED 
+## MAKE : BLINK AN LED
 
 ![Blink an LED Schematic](https://www.arduino.cc/en/uploads/Tutorial/ExampleCircuit_sch.png)
 
@@ -67,3 +67,7 @@ LEDS are light emitting diodes. As a diode, they only let current flow in one di
 
 Resistors are electrical components that when placed in a circuit, resist the amount of current. Resistors, such as the ones we are using called through-hole, have color bands that indicate what their value , or ability to resist, is. There is a decent tutorial on [Instructables about how to read a resistor](http://www.instructables.com/id/How-to-read-color-codes-from-resistors-1/). 
 
+[Blink an LED Tutorial](https://www.arduino.cc/en/Tutorial/Blink)
+
+## MAKE : USE A BUTTON TO CONTROL AN LED
+[BUTTON TO CONTROL LED](https://www.arduino.cc/en/Tutorial/DigitalReadSerial)
