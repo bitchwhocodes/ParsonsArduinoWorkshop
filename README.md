@@ -105,3 +105,7 @@ Using it to detect knock
 
 ![Piezo diagram](https://www.arduino.cc/en/uploads/Tutorial/knock_bb.png)
 
+
+## MAKE : USING A POT TO DIM AN LED
+Sketh Link: 
+![POT DIAGRAM](https://www.arduino.cc/en/uploads/Tutorial/analoginoutseria1_bb.png)
