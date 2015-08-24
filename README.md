@@ -89,3 +89,7 @@ A pull up resistor is connected through ground and a pull down resistor is conne
 ## MAKE: PHOTORESISTOR
 ![Servo Diagram](http://ni-c.github.io/heimcontrol.js/img/arduino-a995011.png)
 
+## MAKE: USING A PIEZO
+
+![Piezo diagram](http://learning.codasign.com/images/1/1e/Piezo_arduino.png)
+
