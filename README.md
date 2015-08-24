@@ -107,7 +107,7 @@ Using it to detect knock
 
 
 ## MAKE : USING A POT TO DIM AN LED
-Sketch Link: 
+Sketch Link: [Dimming an LED with a pot](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/DialDimmer/PotToLed)
 Diagram: 
 
 ![POT DIAGRAM](https://www.arduino.cc/en/uploads/Tutorial/analoginoutseria1_bb.png)
