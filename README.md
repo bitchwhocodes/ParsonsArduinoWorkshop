@@ -59,7 +59,7 @@ There is no shortage of inpsiring work that utilizes the Arduino.
 
 ![Blink an LED Schematic](https://www.arduino.cc/en/uploads/Tutorial/ExampleCircuit_sch.png)
 
-![Blink an LED Image](http://www.fibidi.com/wp-content/uploads/2012/08/plynnie1.jpg)
+![Blink an LED Image](http://rain.aa.washington.edu/@api/deki/files/44/=BlinkLED.png)
 
 LEDS are light emitting diodes. As a diode, they only let current flow in one direction - from positive to the negative terminal. They have very little ability to resist as they are a semiconductor, therefore you need to pair them with a resistor to help protec them and blowing them out. 
 
