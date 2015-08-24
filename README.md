@@ -33,3 +33,17 @@ You will need the following software installed:
 
 # Day 1
 
++ Intro to Arduino - Inspiration, Different types, choosing a board, GPIO 
++ Arduino IDE
++ Connecting to Arduino
++ MAKE: Hello World ( Blink LED ) 
++ Digital versus Analog
++ Reading Resistors 
++ Pull Up resistors 
++ MAKE: Button to control LED
++ MAKE:Photocell to control LED
++ MAKE: Photocell to control LED and PIEZO 
++ 
+## Intro To Arduindo
+
+Arduion
