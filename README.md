@@ -82,5 +82,10 @@ When working with commponents like a button where you set their pin mode to be i
 A pull up resistor is connected through ground and a pull down resistor is connected through ground. [Read more](https://www.arduino.cc/en/Tutorial/DigitalPins)
 
 
-## MAKE: USE A A SERVO
+## MAKE: USE A SERVO
 ![Servo Diagram](https://www.arduino.cc/en/uploads/Tutorial/sweep_BB.png)
+
+
+## MAKE: PHOTORESISTOR
+![Servo Diagram](http://ni-c.github.io/heimcontrol.js/img/arduino-a995011.png)
+
