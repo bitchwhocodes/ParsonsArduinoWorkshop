@@ -113,3 +113,17 @@ Diagram:
 ![POT DIAGRAM](https://www.arduino.cc/en/uploads/Tutorial/analoginoutseria1_bb.png)
 
 In this example, we are now using the analog write to write an led. If you want to control how bright an LED is, you can do so using the Analog pins. You will need to use the PWM pins ( look for the ~ ). 
+
+
+# Day 2
+
+Build your own nightlight. 
+You will need 
++ photoresistor
++ 3 leds ( or more ) 
++ 3x 220 Ohm Resistors
++ 1x 10K Ohm Resistor
+
+![Diagram for all to one pin](http://cdn.instructables.com/FLZ/ULHQ/H7430JEE/FLZULHQH7430JEE.LARGE.jpg)
+
+
