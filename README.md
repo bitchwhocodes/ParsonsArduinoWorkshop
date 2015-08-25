@@ -129,16 +129,28 @@ You will need
 This wires all the leds to one pin. You could also control them separately
 
 ## Temp Sensor / Indicator
-We will be using this [temperature sensor](https://learn.adafruit.com/tmp36-temperature-sensor) from Adafruit. 
+We will be using this from Adafruit. 
+
+[temperature sensor](https://learn.adafruit.com/tmp36-temperature-sensor)
+
 Here is how it works
+
 ![temp sensor](https://learn.adafruit.com/system/assets/assets/000/000/471/medium260/temperature_tmp36pinout.gif?1396763338)
+
 Here is how you wire it up:
+
 ![temp wiring](https://learn.adafruit.com/system/assets/assets/000/000/476/medium640/temperature_tmp36fritz.gif?1396763381)
 
 You will need:
 + Temp Sensor
-+ 3 LEDS
++ 2 LEDS
++ 2x 220 Ohm Resistors
++ Servo
 + 
+Make an indicator of your choice - that based on the temperature, will light up leds or move something via a servo. 
+
+
+
 
 
 
