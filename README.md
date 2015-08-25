@@ -117,7 +117,7 @@ In this example, we are now using the analog write to write an led. If you want 
 
 # Day 2
 
-Build your own nightlight. 
+## Build your own nightlight. 
 You will need 
 + photoresistor
 + 3 leds ( or more ) 
@@ -125,5 +125,21 @@ You will need
 + 1x 10K Ohm Resistor
 
 ![Diagram for all to one pin](http://cdn.instructables.com/FLZ/ULHQ/H7430JEE/FLZULHQH7430JEE.LARGE.jpg)
+
+This wires all the leds to one pin. You could also control them separately
+
+## Temp Sensor / Indicator
+We will be using this [temperature sensor](https://learn.adafruit.com/tmp36-temperature-sensor) from Adafruit. 
+Here is how it works
+![temp sensor](https://learn.adafruit.com/system/assets/assets/000/000/471/medium260/temperature_tmp36pinout.gif?1396763338)
+Here is how you wire it up:
+![temp wiring](https://learn.adafruit.com/system/assets/assets/000/000/476/medium640/temperature_tmp36fritz.gif?1396763381)
+
+You will need:
++ Temp Sensor
++ 3 LEDS
++ 
+
+
 
 
