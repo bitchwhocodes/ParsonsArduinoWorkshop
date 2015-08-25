@@ -161,10 +161,21 @@ We will begin to learn how to use other programs / languages with the Arduino. Y
 
 We will start by using the SerialPort module in Node.js to get the data coming from the Arduino. The steps we will follow will be much like those in this [video.](https://channel9.msdn.com/Blogs/raw-tech/Arduino-talks-back-to-Nodejs-Drama-on-the-Serial-Port) 
 
+We will look at frameworks like [Johnny-Five](https://github.com/rwaldron/johnny-five) to read and write to the Arduino and learn the basics of that. 
+
+## Make: User Controlled Personal Notifier - Will start
+We will use an api for something like Slack, your email, even instagram or twitter and learn how to:
++ Use an API in Node.jS
++ Take input or show output from Arduino to Node.js
+
 # Day 4
 
+We will finish our project from Day 4. 
+## Make : SMS or EMAIL 
+
+
 # Day 5 
-Today we will be making our own touch pad sensors using materials like velostat and then connecting those up to Unity via Socket.I0 
+Today we will be making our own touch pad sensors using materials like velostat and then connecting those up to Unity via Socket.I0 which we will have learned a bit beofre.
 
 This [video](https://channel9.msdn.com/Blogs/raw-tech/Electronics-for-the-Uninitiated--Creating-your-own-Touch-Sensor) shows you the basics of making your own touch sensor. 
 
