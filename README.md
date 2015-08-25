@@ -155,6 +155,12 @@ Make an indicator of your choice - that based on the temperature, will light up 
 
 # Day 3
 
+We will begin to learn how to use other programs / languages with the Arduino. You will need to have the following installed:
++ [Node.js](https://nodejs.org/)
++ [Visual Studio Code](https://code.visualstudio.com/)
+
+We will start by using the SerialPort module in Node.js to get the data coming from the Arduino. The steps we will follow will be much like those in this [video.](https://channel9.msdn.com/Blogs/raw-tech/Arduino-talks-back-to-Nodejs-Drama-on-the-Serial-Port) 
+
 # Day 4
 
 # Day 5 
