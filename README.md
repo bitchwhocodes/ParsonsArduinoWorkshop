@@ -161,6 +161,15 @@ We will begin to learn how to use other programs / languages with the Arduino. Y
 
 We will start by using the SerialPort module in Node.js to get the data coming from the Arduino. The steps we will follow will be much like those in this [video.](https://channel9.msdn.com/Blogs/raw-tech/Arduino-talks-back-to-Nodejs-Drama-on-the-Serial-Port) 
 
+## MAKE : Email Blaster with a Button
+Files located [here](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/NodeEmail)
+In this project, we will use the NodeMailer Module to send email from Node, and capture a button press from the Arduino using the Serial Port module. 
+
+Arduino
+We will need to upload the [sketch](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/NodeEmail/button_press ) to the Arduino and wire up the circuit. Your circuit should look like this:
+![button circuit](/images/button-circuit.jpg)
+
+
 We will look at frameworks like [Johnny-Five](https://github.com/rwaldron/johnny-five) to read and write to the Arduino and learn the basics of that. 
 
 ## Make: User Controlled Personal Notifier - Will start
