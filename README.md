@@ -57,6 +57,10 @@ There is no shortage of inpsiring work that utilizes the Arduino.
 + [Wooden Mirror](http://www.smoothware.com/danny/woodenmirror.html)
 + [LED SUITS](https://vimeo.com/131465568)
 
+
+## Working with a Breadboard
+Learn about the basics of a breadboard in this [video](https://channel9.msdn.com/Blogs/raw-tech/Electronics-for-the-Uninitiated-Using-a-Breadboard)
+
 ## MAKE : BLINK AN LED
 
 Arduino Sketch in Repository 
@@ -149,7 +153,14 @@ You will need:
 + 
 Make an indicator of your choice - that based on the temperature, will light up leds or move something via a servo. 
 
+# Day 3
 
+# Day 4
+
+# Day 5 
+Today we will be making our own touch pad sensors using materials like velostat and then connecting those up to Unity via Socket.I0 
+
+This [video](https://channel9.msdn.com/Blogs/raw-tech/Electronics-for-the-Uninitiated--Creating-your-own-Touch-Sensor) shows you the basics of making your own touch sensor. 
 
 
 
