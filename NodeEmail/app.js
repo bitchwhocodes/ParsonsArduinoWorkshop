@@ -41,8 +41,8 @@ function onData(data) {
 var transporter = nodemailer.createTransport({
     service: 'Gmail',
     auth: {
-        user: 'YOUR EMAIL HERE',
-        pass: 'GENERATE AN APP PASSWORD'
+        user: 'stacey.mulcahy@gmail.com',
+        pass: 'clmoprqffigvbrng'
     }
 });
 
@@ -51,8 +51,8 @@ var transporter = nodemailer.createTransport({
 
 // setup e-mail data with unicode symbols
 var mailOptions = {
-    from: 'NAME <EMAIL>', // sender address
-    to: 'PUT EMAIL HERE', // list of receivers
+    from: 'YO <stacey.mulcahy@gmail.com>', // sender address
+    to: 'stacey.mulcahy@microsoft.com', // list of receivers
     subject: 'Hello ', // Subject line
     text: 'Hello world ', // plaintext body
     html: '<b>Hello world </b>' // html body
