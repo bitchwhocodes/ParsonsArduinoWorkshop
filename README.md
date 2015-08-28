@@ -235,6 +235,8 @@ Make sure you are getting messages.
 ## 7. Make your own touch pad sensors! 
 This [video](https://channel9.msdn.com/Blogs/raw-tech/Electronics-for-the-Uninitiated--Creating-your-own-Touch-Sensor) shows you the basics of making your own touch sensor. 
 
+You can reference your [kit here](http://www.adafruit.com/product/1917)
+
 ## 8. Profit.
 
 
