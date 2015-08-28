@@ -210,8 +210,12 @@ We have done this. Create a node script that will capture the serial information
 + DONE HIGH FIVE
 
 ## 3. Add in Socket.io 
-We have done this. Add in socket.io so that we can send messages. Incoporate it on the server side. You can also do teh client side too if you want. 
-+
+We have done this. Add in socket.io so that we can send messages. Incoporate it on the server side. You can also do the client side too if you want. 
++ Install the socket io module 
++ Open your terminal, and make sure you are in the directory 
++ npm install socket.io --save
++ Open up your app.js script in Visual Studio Code
++ You can now add in socket io - reference this example in the [app.js](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/NodeSite) 
 
 ## 4. Unity 
 I have an example [here](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/UnityToNodeSocket).
