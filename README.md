@@ -192,13 +192,26 @@ This [video](https://channel9.msdn.com/Blogs/raw-tech/Electronics-for-the-Uninit
 ## Steps
 
 ## 1. Arduino and Button Input
-Let's start by making just button input before we worry about custom sensors. Create two button circuits and write a sketch that will print out the values of the button so that we can capture it. One button should result in a Serial.print (1 ) the other should result in a Serial.print (2 ). Make sure this works on your arduino. 
+Let's start by making just button input before we worry about custom sensors. Create two button circuits and write a sketch that will print out the values of the button so that we can capture it. One button should result in a Serial.print (1 ) the other should result in a Serial.print (2 ). Make sure this works on your arduino. You can reference Day 3 files. 
 
 ## 2. Write a Node Script to Capture Serial from Arduino
 We have done this. Create a node script that will capture the serial information and just console log it out.
++ Create a new folder
++ In that folder, create a new file - call it "app.js"
++ Open that file in Visual Studio Code
++ Open your terminal and navigate to this folder ( cd /path/to/directory)
++ Once in your directory install the serial port module : npm install serialport --save
++ Reference this project/lab to get it [working](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/NodeSerial) 
++ To run this script, you will need to know the port of your Arduino
++ On a Mac - in your terminal - "ls /dev/tty.*" to list all your ports
++ On a PC - go to device manager, find the com port number it is connected to 
++ To run the script, you will now do a "node app.js YOUR_PORT_NAME"
++ You should see data being sent when you press a button from the Arduino 
++ DONE HIGH FIVE
 
 ## 3. Add in Socket.io 
 We have done this. Add in socket.io so that we can send messages. Incoporate it on the server side. You can also do teh client side too if you want. 
++
 
 ## 4. Unity 
 I have an example [here](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/UnityToNodeSocket).
