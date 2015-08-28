@@ -179,14 +179,42 @@ We will use an api for something like Slack, your email, even instagram or twitt
 
 # Day 4
 
-We will finish our project from Day 4. 
-## Make : SMS or EMAIL 
+We will learn how to set up a web site using Node and the http, fs modules. We will incorporate Socket.io and understand how to do client to server side communication. 
+
+## Make : NeoPixel Strip
 
 
 # Day 5 
 Today we will be making our own touch pad sensors using materials like velostat and then connecting those up to Unity via Socket.I0 which we will have learned a bit beofre.
 
 This [video](https://channel9.msdn.com/Blogs/raw-tech/Electronics-for-the-Uninitiated--Creating-your-own-Touch-Sensor) shows you the basics of making your own touch sensor. 
+
+## Steps
+
+## 1. Arduino and Button Input
+Let's start by making just button input before we worry about custom sensors. Create two button circuits and write a sketch that will print out the values of the button so that we can capture it. One button should result in a Serial.print (1 ) the other should result in a Serial.print (2 ). Make sure this works on your arduino. 
+
+## 2. Write a Node Script to Capture Serial from Arduino
+We have done this. Create a node script that will capture the serial information and just console log it out.
+
+## 3. Add in Socket.io 
+We have done this. Add in socket.io so that we can send messages. Incoporate it on the server side. You can also do teh client side too if you want. 
+
+## 4. Unity 
+I have an example [here](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/UnityToNodeSocket).
+You need to install the Socket IO asset from the Unity Asset Store. You can see it [here](https://www.assetstore.unity3d.com/en/#!/content/21721). You will need to configure it a bit. 
+
+## 5.  Run your Node script
+node app.js in the folder you created it. 
+
+## 6. PLay your Unity project 
+Make sure you are getting messages. 
+
+## 7. Make your own touch pad sensors! 
+This [video](https://channel9.msdn.com/Blogs/raw-tech/Electronics-for-the-Uninitiated--Creating-your-own-Touch-Sensor) shows you the basics of making your own touch sensor. 
+
+## 8. Profit.
+
 
 
 
