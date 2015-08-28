@@ -3,14 +3,11 @@
     <head>
         <script src='/socket.io/socket.io.js'></script>
         <script src="http://p5js.org/js/p5.min.js"></script>
-
-
-         
         <script>
             var socket = io();
 
             socket.on('welcome', function(data) {
-                addMessage(data.message);
+               // addMessage(data.message);
 
                 // Respond with a message including this clients' id sent from the server
                 socket.emit('i am client', {data: 'foo!', id: data.id});
@@ -22,11 +19,12 @@
             socket.on('message', console.log.bind(console));
 
             function setMessage(message) {
-            
+              
+                    console.log("getting a message"+message);
                     var value = parseInt(message);
                     if(!isNaN(value)&&!(value%30))
                     {
-                       console.log("ohshit")
+                      
                       doRun = true;
                     }
            
@@ -122,6 +120,7 @@ ParticleSystem.prototype.run = function() {
         </script>
     </head>
     <body>
+      
         <ul id='messages'></ul>
         
 

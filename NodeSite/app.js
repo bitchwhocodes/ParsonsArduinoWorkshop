@@ -9,6 +9,11 @@ var app = http.createServer(function (req, res) {
   res.end(index);
 });
 app.listen(3000);
+
+
+
+
+
 // Socket.io server listens to our app
 var io = require('socket.io').listen(app);
 
@@ -20,11 +25,11 @@ io.on('connection', function (socket) {
   });
 });
 
-var counter =0;
+var counter = 0;
 // Send current time to all connected clients
 function sendMessage() {
   counter++;
-  
+
   io.emit('time', counter);
 }
 
