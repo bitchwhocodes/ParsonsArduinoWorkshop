@@ -215,11 +215,16 @@ We have done this. Add in socket.io so that we can send messages. Incoporate it 
 + Open your terminal, and make sure you are in the directory 
 + npm install socket.io --save
 + Open up your app.js script in Visual Studio Code
-+ You can now add in socket io - reference this example in the [app.js](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/NodeSite) 
++ You can now add in socket io - reference this example in the [app.js](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/NodeSite)
+
 
 ## 4. Unity 
 I have an example [here](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/UnityToNodeSocket).
 You need to install the Socket IO asset from the Unity Asset Store. You can see it [here](https://www.assetstore.unity3d.com/en/#!/content/21721). You will need to configure it a bit. 
++ Get the asset from the asset store
++ Open the example file
++ You can also reference this [example](https://github.com/bitchwhocodes/ParsonsArduinoWorkshop/tree/master/UnityToNodeSocket) 
++ Configure the Socket Prefab - you will need to change the url on it to reflect where your NODE app is running ( localhost:3000)
 
 ## 5.  Run your Node script
 node app.js in the folder you created it. 
